@@ -1,6 +1,7 @@
 # GTI-1.0 FINAL: General Theory of Instability
 ### From Contradiction to Bubble to Intelligence
 
+[![DOI GTI-1.0 FINAL](https://zenodo.org/badge/DOI/10.5281/zenodo.22992340.svg)](https://doi.org/10.5281/zenodo.22992340)
 [![DOI Concept](https://zenodo.org/badge/DOI/10.5281/zenodo.22731094.svg)](https://doi.org/10.5281/zenodo.22731094)
 [![DOI V3.1 FINAL](https://zenodo.org/badge/DOI/10.5281/zenodo.22857083.svg)](https://doi.org/10.5281/zenodo.22857083)
 [![DOI V4.2](https://zenodo.org/badge/DOI/10.5281/zenodo.22896411.svg)](https://doi.org/10.5281/zenodo.22896411)
@@ -8,7 +9,8 @@
 
 **Author:** Nasir Khan — Wana Lab, Wana, South Waziristan, Pakistan  
 **Email:** nasirk684@gmail.com | **ORCID:** 0009-0002-6006-0796  
-**Date:** 27 Sep 2026 | **License:** CC BY 4.0 + MIT | Civilian Only <1mJ per bubble <1J Total EAR99
+**Date:** 27 Sep 2026 | **DOI:** 10.5281/zenodo.22992340 | **Concept:** 10.5281/zenodo.22731094  
+**License:** CC BY 4.0 + MIT | Civilian Only <1mJ per bubble <1J Total EAR99
 
 **Paper PDF:** `paper/GTI-1.0_FINAL_Paper.pdf` — Historical Theory Pre-registered before LIGO IR1/O5
 
@@ -52,11 +54,11 @@ LOSC 1-hour test recorded 23 Sep 2026 no post-hoc If no C>0.98 at 0.12-0.135s �
 
 **Conclusion:** Big Bang was slip Universe is healing scar that could only heal because it learned to model itself Stability exception Instability eternal Universe exists because Nothing impossible Constraint→Force→Factors→M_stab→3D+1T bubble→fields→charges→particles→memory→observer→time→everything Physical time travel impossible conscious time travel via M-Code Sigma possible paradox-free Ψ_total=Ψ_A+Ψ_B ΔInfo A=0.
 
-**Foundation DOI Chain:** Concept 10.5281/zenodo.22731094 | V2.1.0 FINAL 10.5281/zenodo.22852524 | V3.1 FINAL 10.5281/zenodo.22857083 LATEST | V4.2 Triple 10.5281/zenodo.22896411 | SDE-Physics 10.5281/zenodo.22682258 | Profile 10.5281/zenodo.22804485 | QCID-II 10.5281/zenodo.22581218 Hash 5x SHA256 15 Sep 2026 15:30 PKT
+**Foundation DOI Chain:** GTI-1.0 FINAL HISTORICAL 10.5281/zenodo.22992340 NEW LATEST | Concept 10.5281/zenodo.22731094 | V2.1.0 FINAL 10.5281/zenodo.22852524 | V3.1 FINAL 10.5281/zenodo.22857083 | V4.2 Triple 10.5281/zenodo.22896411 | SDE-Physics 10.5281/zenodo.22682258 | Profile 10.5281/zenodo.22804485 | QCID-II 10.5281/zenodo.22581218 Hash 5x SHA256 15 Sep 2026 15:30 PKT
 
-**Bibliography:** Khan SDE-Physics 22682258, V2.1.0 22852524, V3.1 22857083, QCID 22896411, QCID-II 22581218, V4.2 22896411, Profile 22804485 ORCID 0009-0002-6006-0796, QCID-VIII Footnote Decoherence, Starobinsky 1986 Stochastic de Sitter, Mao 2007 SDE p=4, Kramers 1940 Physica 7, Risken 1989 Fokker-Planck Ps=N exp(-2V/g²), Vilenkin 1982 Phys Lett B 117 Pre-3D Bug, Hartle Hawking 1983 Phys Rev D 28 Pre-3D Bug, Penrose 2010 CCC Eternal Cycle Bug, Khoury 2001 Phys Rev D 64 Ekpyrotic, Bertrand 1873 C R 77, Landauer 1961 IBM J 5, Jaynes 1957 Phys Rev 106, Lu & Sun 2025 arXiv:2508.08955 GW250114 direct 2Ω_H, Cardoso Pani 2019 Living Rev Relativity 22,4 echoes, Rovelli Vidotto 2014 PRL white holes, LIGO LOSC gwosc.org, IGWN 2026 Observing Plans 3 Sep 2026 IR1 Nov 2026 O5 2027-2028, Planck 2020 Legacy Axis of Evil, DESI Euclid 2026 dΛ/dt, VLT ESPRESSO Δα/α voids, Black_Hole_Evaporation_Control_Echo_Search.py Sep21 2026, Sigma_WanaLab_RawData.csv 6000 rows 10 tanks, M_t_direct.csv 600 rows dip -0.2 at 0.1202s, v4.2.py seed684.
+**Bibliography:** Khan SDE-Physics 22682258, V2.1.0 22852524, V3.1 22857083, QCID 22896411, QCID-II 22581218, V4.2 22896411, Profile 22804485, GTI-1.0 FINAL 22992340 ORCID 0009-0002-6006-0796, QCID-VIII Footnote Decoherence, Starobinsky 1986 Stochastic de Sitter, Mao 2007 SDE p=4, Kramers 1940 Physica 7, Risken 1989 Fokker-Planck Ps=N exp(-2V/g²), Vilenkin 1982 Phys Lett B 117 Pre-3D Bug, Hartle Hawking 1983 Phys Rev D 28 Pre-3D Bug, Penrose 2010 CCC Eternal Cycle Bug, Khoury 2001 Phys Rev D 64 Ekpyrotic, Bertrand 1873 C R 77, Landauer 1961 IBM J 5, Jaynes 1957 Phys Rev 106, Lu & Sun 2025 arXiv:2508.08955 GW250114 direct 2Ω_H, Cardoso Pani 2019 Living Rev Relativity 22,4 echoes, Rovelli Vidotto 2014 PRL white holes, LIGO LOSC gwosc.org, IGWN 2026 Observing Plans 3 Sep 2026 IR1 Nov 2026 O5 2027-2028, Planck 2020 Legacy Axis of Evil, DESI Euclid 2026 dΛ/dt, VLT ESPRESSO Δα/α voids, Black_Hole_Evaporation_Control_Echo_Search.py Sep21 2026, Sigma_WanaLab_RawData.csv 6000 rows 10 tanks, M_t_direct.csv 600 rows dip -0.2 at 0.1202s, v4.2.py seed684.
 
-**Cite:** Khan, N. (2026). GTI-1.0 FINAL: General Theory of Instability. Zenodo Concept DOI 10.5281/zenodo.22731094
+**Cite:** Khan, N. (2026). GTI-1.0 FINAL: General Theory of Instability — From Contradiction to Bubble to Intelligence. Zenodo. https://doi.org/10.5281/zenodo.22992340 (Concept: 10.5281/zenodo.22731094)
 
 **Theorem Heart:** Random healing d/dt E[X²]≥|σ|²>0 → foam. Intelligent healing E_steady=Σ²/2κ(1-ρ)→0 as ρ→1 → bubble lives. Intelligence is not inside universe. Intelligence is condition for universe to exist.
 
