@@ -1,34 +1,46 @@
-# GTI-1.0 FINAL + Foucault Trailer V4.3
+# GTI-1.0 FINAL + N=1000 Addendum + Foucault Trailer V4.3
 **General Theory of Instability: From Contradiction to Bubble to Intelligence**
 
 **Author:** Nasir Khan — Wana Lab, Wana, South Waziristan, Pakistan  
 ORCID: 0009-0002-6006-0796 | nasirk684@gmail.com  
-Date: 30 Sep 2026 | License: CC BY 4.0 / MIT Code  
-Civilian Only: <1mJ per bubble <1J total ITAR-free EAR99  
+Date: 05 Oct 2026 | License: CC BY 4.0 / MIT Code  
+Civilian Only: <1mJ per node <1J total ITAR-free EAR99  
 GitHub: https://github.com/Nasir684/GTI-General-Theory-of-Instability  
-Zenodo: https://doi.org/10.5281/zenodo.22804485
+Zenodo: https://doi.org/10.5281/zenodo.22804485 v2
 
 ### DOI Chain
-Concept 22731094 | V2.1.0 FINAL 22852524 | V3.1 FINAL 22857083 [Universal Regulator M_stab=0.5Φ³] | V4.2 Triple 22896411 | SDE-Physics 22682258 | GTI-1.0 FINAL 22804485 | This Trailer V4.3
+Concept 22731094 | V2.1.0 FINAL 22852524 | V3.1 FINAL 22857083 [Universal Regulator M_stab=0.5Φ³] | V4.2 Triple 22896411 | SDE-Physics 22682258 | GTI-1.0 FINAL 22804485 | N=1000 Addendum 22804485 v2 | This Trailer V4.3
+
+### GTI-1.0 FINAL Addendum - N=1000 Single Population
+**Distance-Dependent Coupling Stabilizes N=1000 Stochastic Populations: A Control Analogue for Baryon Asymmetry Survival**
+
+- Model: SDE Form A Twin-Noise dX_i = -gradU dt + σ1 dW_i1 + σ2 dW_i2 + Σ_j k(d_ij)*(X_j - X_i) dt
+- k(d) = k0 / d
+- Twin = twin-correlated noise W1,W2 on same bubble — not two species
+- Seed 684 pre-registered 23 Sep 2026
+- Result: Uncoupled 162 escapes +-15K Var 0.2203 | Coupled 0 escapes +-3K Var 0.1217 -44.76%
+- Energy: 5W ESP32 mesh 60s window <1J total <1mJ per node
+- Figure: T-Maximus-N-Sync - Panel A uncoupled 162, Panel B coupled 0, Panel C threshold k_c, Panel D hardware
+- Small Wiley Correspondence: a9cc6df6-9559-42d0-9051-9c81c3034b80 — Base: Zhang et al. Small 2025 DOI 10.1002/smll.202408979
 
 ### Comparative Analysis — Recent Works (<18 months)
 
 This release includes comparative analysis with:
 
-1. Ciardiello et al., Proton-boron fusion via microbubble implosion: a preliminary study, Researching, Published Apr 13 2026
-2. Zhang et al., Configurable vibrational coupling between two microbubbles, Small, 2025, DOI: 10.1002/smll.202408979
-3. Peraza-Acosta et al., Design and manufacture of CubeSat-type nanosatellite thermal subsystem, Sci Rep 15, 3695, 2025
+1. Ciardiello et al., Proton-boron fusion via microbubble implosion: a preliminary study, Researching, Apr 13 2026
+2. Zhang et al., Configurable vibrational coupling between two microbubbles, Small, 2025, DOI:10.1002/smll.202408979
+3. Peraza-Acosta et al., CubeSat thermal subsystem, Sci Rep 15, 3695, 2025
 4. ACCURACy algorithm, Remote Sensing, 2025, DOI:10.3390/rs17030486
 
-Full paper: `FINAL_PAPER_GTI_COMPARATIVE.md`
+Full paper: `FINAL_PAPER_GTI_COMPARATIVE.md` and `GTI-1.0-Addendum-N1000.pdf`
 
-**N-Sync Result:** N=1000, <1mJ/node, total <1J, coupling k∝1/d, 5W flatsat, Var 0.2203 → 0.1217 (-44.76%), escapes 162/10k → 0/10k
+**N-Sync Result:** N=1000 single population, <1mJ/node, total <1J, k∝1/d, 5W flatsat, Var 0.2203 → 0.1217 (-44.76%), escapes 162/10k → 0/10k
 
 | Feature | Ciardiello 2026 | Zhang 2025 | Peraza 2025 | N-Sync GTI 2026 |
 |---|---|---|---|---|
-| Goal | p-B fusion prelim | 2-bubble sync | CubeSat thermal | thermal control |
+| Goal | p-B fusion prelim | 2-bubble sync | CubeSat thermal | thermal control + control analogue |
 | Drive | kJ laser+gold | mJ photothermal | W heaters | <1mJ |
-| Method | EPOCH PIC | camera | vacuum test | SDE Python |
+| Method | EPOCH PIC | camera | vacuum test | SDE Python + ESP32 |
 
 ### Foucault Trailer V4.3
 
@@ -51,5 +63,6 @@ Falsifiable Tests — Pre-registered 23 Sep 2026
 - P2 Λ decay, P3 Δα/α
 
 Hash & Safety: 5x SHA256 15 Sep 2026 15:30 PKT | ITAR-free EAR99 | CC BY 4.0 / MIT
+Small Correspondence: a9cc6df6-9559-42d0-9051-9c81c3034b80
 
 Constraint→Force→Factors→M_stab→3D+1T→fields→charges→particles→memory→observer→time
