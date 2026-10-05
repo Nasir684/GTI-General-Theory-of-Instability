@@ -6,10 +6,10 @@ ORCID: 0009-0002-6006-0796 | nasirk684@gmail.com
 Date: 05 Oct 2026 | License: CC BY 4.0 / MIT Code  
 Civilian Only: <1mJ per node <1J total ITAR-free EAR99  
 GitHub: https://github.com/Nasir684/GTI-General-Theory-of-Instability  
-Zenodo Concept: https://doi.org/10.5281/zenodo.22896411 | GTI-1.0: https://doi.org/10.5281/zenodo.22804485 v2
+Zenodo V4.3: https://doi.org/10.5281/zenodo.23172595 | Concept: https://doi.org/10.5281/zenodo.22896411 | GTI-1.0: https://doi.org/10.5281/zenodo.22804485 v2
 
 ### DOI Chain
-Concept 22731094 | V2.1.0 FINAL 22852524 | V3.1 FINAL 22857083 [Universal Regulator M_stab=0.5Φ³] | V4.2 Triple 22896411 | SDE-Physics 22682258 | GTI-1.0 FINAL 22804485 | N=1000 Addendum 22804485 v2 | V4.3 Confirmation This Release 22896411
+Concept 22731094 | V2.1.0 FINAL 22852524 | V3.1 FINAL 22857083 [Universal Regulator M_stab=0.5Φ³] | V4.2 Triple 22896411 | SDE-Physics 22682258 | GTI-1.0 FINAL 22804485 | N=1000 Addendum 22804485 v2 | V4.3 Confirmation 23172595 [10of10 PASS]
 
 ### V4.3 CONFIRMATION - LIGO O4 10of10 PASS
 **Validation of GTI N-Sync Filter on Public LIGO O4 Data**
